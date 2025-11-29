@@ -1,0 +1,12 @@
+{
+  "name": "base64jsbench",
+  "version": "1.0.0",
+  "main": "benchmark.js",
+  "scripts": {
+    "start": "node benchmark.js"
+  },
+  "dependencies": {
+    "benchmark": "^2.1.4",
+    "lodash": "^4.17.21"
+  }
+}
